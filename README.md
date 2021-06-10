@@ -1,6 +1,6 @@
 <img src="./logo-dark.svg" width="120" />
 
-Logo of [uiw](https://uiw-react.github.io)
+Logo of [uiw](https://uiwjs.github.io)
 
 | Name | Preview/Download |
 | ---- | ---- |
